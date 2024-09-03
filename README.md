@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samson
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning JavaScript and Node.js
-- 💞️ I’m looking to collaborate on backend projects
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on data engineering projects
 - 📫 How to reach me samsonoloto@gmail.com
 
 <!---
